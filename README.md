@@ -7,14 +7,15 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=newbie34City&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <a href="#" title="vam">
+    <img width="434" align="center" src="https://github-readme-stats.vercel.app/api?username=newbie34City&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   </a>
-  <a href="#" title="Trungquandev">
+  <a href="#" title="van">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbie34City&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
 </div>
 
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=newbie34City&icon=0&color=0)](https://visitcount.itsvg.in)
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
