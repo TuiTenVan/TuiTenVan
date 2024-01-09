@@ -8,10 +8,10 @@
 
 <div align=center>
   <a href="#" title="vam">
-    <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=newbie34City&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+    <img width="420" align="left" src="https://github-readme-stats.vercel.app/api?username=newbie34City&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
   </a>
   <a href="#" title="van">
-    <img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbie34City&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+    <img align="right" width="420" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newbie34City&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
   </a>
 </div>
 
