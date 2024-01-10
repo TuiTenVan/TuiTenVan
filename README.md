@@ -1,5 +1,5 @@
 <h1 align="center">Hello, Ladies and Gentlemen 👋</h1>
-[<img width="100%" src="https://camo.githubusercontent.com/53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">](https://storyset.com/illustration/online-world/amico#407BFFFF&hide=&hide=complete)
+[<img width="100%" src="https://camo.githubusercontent.com/53e2d5e6937554a96b9299b5d38e39080ab9281af5c888aa5b06b86312ccdccd/68747470733a2f2f63646e2e66696c65737461636b636f6e74656e742e636f6d2f6566625352313868543575524b756f307a6f4d41">]
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 
