@@ -1,5 +1,3 @@
-<h1 align="center">Hello, Ladies and Gentlemen 👋</h1>
-
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align=center>
